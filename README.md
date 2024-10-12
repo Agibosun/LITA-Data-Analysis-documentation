@@ -19,19 +19,19 @@ Data analysis is the process of examining, cleaning, transforming, and modeling 
 
 Here are the key steps in data analysis:
 
-Data Collection: Gathering relevant data from various sources, such as databases, surveys, experiments, or external datasets.
+-  Data Collection: Gathering relevant data from various sources, such as databases, surveys, experiments, or external datasets.
 
-Data Cleaning: Ensuring the data is accurate and free of errors by handling missing values, removing duplicates, correcting inconsistencies, and addressing outliers.
+-  Data Cleaning: Ensuring the data is accurate and free of errors by handling missing values, removing duplicates, correcting inconsistencies, and addressing outliers.
 
-Data Exploration: Analyzing the data to understand its structure, distribution, and key variables. This often involves summary statistics, visualizations, and preliminary analysis to uncover patterns or anomalies.
+-  Data Exploration: Analyzing the data to understand its structure, distribution, and key variables. This often involves summary statistics, visualizations, and preliminary analysis to uncover patterns or anomalies.
 
-Data Transformation: Preparing the data for analysis by applying techniques such as normalization, scaling, encoding categorical variables, or feature engineering to enhance its relevance for the intended analysis.
+-  Data Transformation: Preparing the data for analysis by applying techniques such as normalization, scaling, encoding categorical variables, or feature engineering to enhance its relevance for the intended analysis.
 
-Data Modeling: Building statistical or machine learning models to analyze relationships between variables, make predictions, or test hypotheses. Techniques may include regression analysis, clustering, classification, and more.
+-  Data Modeling: Building statistical or machine learning models to analyze relationships between variables, make predictions, or test hypotheses. Techniques may include regression analysis, clustering, classification, and more.
 
-Interpretation: Interpreting the results of the analysis by deriving insights from the data, identifying patterns or trends, and making recommendations based on the findings.
+-  Interpretation: Interpreting the results of the analysis by deriving insights from the data, identifying patterns or trends, and making recommendations based on the findings.
 
-Presentation: Communicating the results through reports, dashboards, visualizations, or presentations. Effective communication of findings helps stakeholders understand the insights and make informed decisions.
+-  Presentation: Communicating the results through reports, dashboards, visualizations, or presentations. Effective communication of findings helps stakeholders understand the insights and make informed decisions.
 
 ## Excel Functions
 
@@ -80,10 +80,10 @@ Are one of Excel's most powerful features, used for summarizing, analyzing, expl
 5. Dynamic Analysis: As the underlying data changes, you can refresh the Pivot Table to reflect the updated information.
 
 ## Common Uses of Pivot Tables:
-Summarizing sales data by region, product, or salesperson.
-Analyzing customer demographics and purchasing behavior.
-Tracking project performance over time.
-Creating financial reports such as income statements and balance sheets.
+1. Summarizing sales data by region, product, or salesperson.
+2. Analyzing customer demographics and purchasing behavior.
+3. Tracking project performance over time.
+4. Creating financial reports such as income statements and balance sheets.
 
 
 
